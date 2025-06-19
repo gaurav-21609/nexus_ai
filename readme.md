@@ -1,6 +1,6 @@
 # 🚀 Nexus AI
 
-**Nexus AI** is a cutting-edge, AI-powered web application built with **Next.js**, delivering an immersive and futuristic 3D user experience. Created by [Gaurav](#) and [Saurabh](#), this project emphasizes modern UI/UX, performance, and interactive design.
+**Nexus AI** is a cutting-edge, AI-powered web application built with **Next.js**, delivering an immersive and futuristic 3D user experience. Created by [Gaurav](https://github.com/gaurav-21609) and [Saurabh](https://github.com/saurabhk79), this project emphasizes modern UI/UX, performance, and interactive design.
 
 ---
 
@@ -22,9 +22,9 @@ Nexus AI is envisioned as a sleek, next-gen landing page with a focus on user-ce
 | --------------- | ---------------------------------------------- |
 | **Framework**   | [Next.js](https://nextjs.org/)                 |
 | **Language**    | TypeScript / JavaScript                        |
-| **Styling**     | Tailwind CSS / CSS Modules / SCSS (choose one) |
-| **3D & Motion** | Three.js, Framer Motion, Lottie (optional)     |
-| **Hosting**     | Vercel / Netlify / Custom                      |
+| **Styling**     | Tailwind CSS / CSS Modules / SCSS  |
+| **3D & Motion** | Three.js, Framer Motion, Lottie    |
+| **Hosting**     | Vercel                     |
 
 ---
 
@@ -122,8 +122,8 @@ Nexus AI is ready for production and can be easily deployed to any of the follow
 
 Developed with ❤️ by:
 
-* [Gaurav](#)
-* [Saurabh](#)
+* [Gaurav](https://github.com/gaurav-21609)
+* [Saurabh](https://github.com/saurabhk79)
 
 ---
 
